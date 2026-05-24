@@ -1,16 +1,31 @@
-## Hi there 👋
+# About me 
 
-<!--
-**wumibayo/wumibayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Microsoft 365 Engineer ☁️
 
-Here are some ideas to get you started:
+Passionate about helping organizations improve productivity, collaboration, and security using Microsoft 365 technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work With
+- Microsoft 365 Administration
+- Entra ID (Azure Active Directory)
+- Exchange Online
+- Microsoft Teams
+- SharePoint Online
+- Security & Compliance
+- PowerShell Automation
+- User & License Management
+- MFA & SSPR Configuration
+
+### 🌱 Currently Learning
+- Advanced PowerShell Scripting
+- Microsoft Security Solutions
+- Identity & Access Management
+- Automation & Cloud Technologies
+
+### 💡 Goals
+- Become a highly skilled Cloud & Security Engineer
+- Build automation solutions with PowerShell
+- Contribute to IT and cloud projects
+- Grow in the Microsoft ecosystem
+
+---
+✨ Always learning, building, and improving in the cloud space.
