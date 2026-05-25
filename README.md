@@ -1,4 +1,4 @@
-# About me 
+# About Me 
 
 ## Microsoft 365 Engineer ☁️
 
@@ -6,7 +6,6 @@ Passionate about helping organizations improve productivity, collaboration, and 
 
 ### 🚀 What I Work With
 - Microsoft 365 Administration
-- Entra ID (Azure Active Directory)
 - Exchange Online
 - Microsoft Teams
 - SharePoint Online
